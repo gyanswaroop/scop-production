@@ -1,0 +1,44 @@
+Old Website Migration Notes
+===========================
+Reviewed uploaded archive references including:
+- placements.html
+- privacy.html
+- scholarship.html
+- secretary.html
+- seminarhall.html
+- transport.html
+- whysgoi.html
+- bed pages
+- blogs pages
+- assets/img folders including admission cards, labs, logos, management, gallery and campus images.
+
+Retained / redesigned:
+- Scholarship inquiry page
+- Placement page
+- Gallery page
+- Labs and facilities page
+- Course landing pages
+- Department pages
+- Blog section
+- Privacy page
+
+Merged:
+- Transport, seminar hall, why choose us and facility content should be merged into Facilities / About / Labs sections as per final content.
+
+Removed / avoided:
+- Any outdated design structure
+- Any AICTE approval mention
+- Old insecure or legacy scripts
+- WordPress old website folder and payment test scripts from old archive
+
+Recommended 301 redirects:
+/placements.html -> /placements.php
+/privacy.html -> /privacy.php
+/scholarship.html -> /scholarship.php
+/seminarhall.html -> /labs.php
+/transport.html -> /about.php
+/bed/bed.html -> /course/bed
+/bed/aboutus.html -> /department/education
+/blogs/hospital_visit.html -> /blog.php
+/blogs/industrial_visit.html -> /blog.php
+/blogs/tb_day.html -> /blog.php

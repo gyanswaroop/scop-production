@@ -1,0 +1,25 @@
+
+UPGRADE RECOMMENDATIONS IMPLEMENTED
+
+1. User CRUD architecture ready
+2. Password reset/change support
+3. Role support:
+   - Super Admin
+   - Counsellor
+   - Telecaller
+   - Content Manager
+
+Recommended DB fields:
+- role
+- status
+- last_login
+- password_reset_token
+
+Dashboard metrics recommended:
+- cold leads
+- warm leads
+- hot leads
+- not picked
+- not interested
+- visit scheduled
+- admissions completed
