@@ -1,0 +1,4 @@
+<?php $metaTitle='Privacy Policy | Sakshi Group of Institutions'; include 'includes/header.php'; ?>
+<section class="page-hero"><div class="container"><span class="breadcrumb-soft">Privacy Policy</span><h1 class="mt-3">Privacy Policy</h1><p class="col-lg-8">How student inquiry information is collected and used for admission communication.</p></div></section>
+<section class="section"><div class="container"><div class="split-box"><p>Information submitted through inquiry forms is used for admission counselling, eligibility guidance, course communication, scholarship inquiry and student support. We do not sell student information. Students may contact the admission office for correction or removal of their submitted data.</p><p>Forms may use CAPTCHA, CSRF security and spam prevention to protect the website and lead system.</p></div></div></section>
+<?php include 'includes/footer.php'; ?>
